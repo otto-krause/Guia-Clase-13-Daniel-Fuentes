@@ -3,7 +3,7 @@
 
     void main()
     {
-        int alum[15], posi[15], i, j;
+        int alum[15], i;
 
         printf("Ingrese las 15 notas de los alumnos:\n");
         for(i=0; i<15; i++){
